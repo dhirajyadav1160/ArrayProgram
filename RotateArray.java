@@ -1,6 +1,6 @@
 package array;
 /**
- * Created by gouthamvidyapradhan on 01/08/2017. Rotate an array of n elements to the right by k
+ * Rotate an array of n elements to the right by k
  * steps.
  *
  * <p>For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
