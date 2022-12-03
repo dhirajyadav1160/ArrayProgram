@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 30/04/2019 On a N * N grid, we place some 1 * 1 * 1 cubes.
+ * On a N * N grid, we place some 1 * 1 * 1 cubes.
  *
  * <p>Each value v = grid[i][j] represents a tower of v cubes placed on top of grid cell (i, j).
  *
