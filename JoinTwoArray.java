@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.*;
 
-public class Deefuck {
+public class JoinTwoArray {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
