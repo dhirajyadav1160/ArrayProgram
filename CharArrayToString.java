@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class array123 {
+public class CharArrayToString {
     public static void main(String[] args) {
         char ch[]= {'d','h','i','r','a','j'};
         String st="";
