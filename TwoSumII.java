@@ -1,5 +1,5 @@
 /**
- * Created by gouthamvidyapradhan on 18/03/2017. Given an array of integers that is already sorted
+ * Given an array of integers that is already sorted
  * in ascending order, find two numbers such that they add up to a specific target number.
  *
  * <p>The function twoSum should return indices of the two numbers such that they add up to the
@@ -14,9 +14,6 @@
 public class TwoSumII {
   /**
    * Main method
-   *
-   * @param args
-   * @throws Exception
    */
   public static void main(String[] args) throws Exception {
     int[] nums = {2, 7, 11, 15};
