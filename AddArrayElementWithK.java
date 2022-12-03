@@ -1,3 +1,13 @@
+/*  
+* Enter the Size of Array....
+* 5
+* Enter the 5 Element of Array...
+* 3 4 5 6 7
+* Enter the value of K....
+* 8
+* Output
+* 34575
+ */
 import java.util.*;
 
 public class AddArrayElementWithK {
