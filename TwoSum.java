@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by gouthamvidyapradhan on 11/07/2017. Given an array of integers, return indices of the
+ * Given an array of integers, return indices of the
  * two numbers such that they add up to a specific target.
  *
  * <p>You may assume that each input would have exactly one solution, and you may not use the same
