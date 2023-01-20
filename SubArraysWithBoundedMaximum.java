@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 29/03/2019 We are given an array A of positive integers, and
+ *  We are given an array A of positive integers, and
  * two positive integers L and R (L <= R).
  *
  * <p>Return the number of (contiguous, non-empty) subarrays such that the value of the maximum

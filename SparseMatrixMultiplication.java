@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 03/12/2017.
+ * 
  *
  * <p>Given two sparse matrices A and B, return the result of AB.
  *

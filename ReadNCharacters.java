@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 09/12/2017. The API: int read4(char *buf) reads 4 characters at
+ *  The API: int read4(char *buf) reads 4 characters at
  * a time from a file.
  *
  * <p>The return value is the actual number of characters read. For example, it returns 3 if there

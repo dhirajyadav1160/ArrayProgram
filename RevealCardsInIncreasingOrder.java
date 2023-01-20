@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Arrays;
 
 /**
- * Created by gouthamvidyapradhan on 12/08/2019 In a deck of cards, every card has a unique integer.
+ *  In a deck of cards, every card has a unique integer.
  * You can order the deck in any order you want.
  *
  * <p>Initially, all the cards start face down (unrevealed) in one deck.

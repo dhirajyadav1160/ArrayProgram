@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Created by gouthamvidyapradhan on 21/03/2017. You are given an n x n 2D matrix representing an
+ * You are given an n x n 2D matrix representing an
  * image.
  *
  * <p>Rotate the image by 90 degrees (clockwise).
